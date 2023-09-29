@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl":"https://drive.google.com/drive/u/0/folders/1-413w6MnsBLQ1EDSBT4hnBX0hXzqYNnJ"
+}
